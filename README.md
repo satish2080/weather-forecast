@@ -40,7 +40,7 @@ npm run test
 - [x] Unit testing.
 - [x] Revisit the code to improve performance. Such as sorting, looping, searching etc.
 - [x] Display hourly forecasts.
-- [X] Fix lint issues and config the eslintrc to support "no-vars-used" for Imports
+- [X] Fix lint issues and config the eslintrc
 - [ ] Detect location automatically
 - [ ] Add an option to choose Units in either Metric or Imperial.
 - [ ] Display higher-level of weather information such as Wind Speed, Precipitation etc
