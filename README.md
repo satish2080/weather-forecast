@@ -36,11 +36,10 @@ npm run test
 ```
 
 ### TODOs
-- [x] Provide an option for user to choose location of their choice, Lat/Long ,ZIP CODE etc
-- [x] Unit testing.
-- [x] Revisit the code to improve performance. Such as sorting, looping, searching etc.
-- [x] Display hourly forecasts.
-- [X] Fix lint issues and config the eslintrc
+- [ ] Provide an option for user to choose location of their choice, Lat/Long ,ZIP CODE etc
+- [ ] Unit testing.
+- [ ] Revisit the code to improve performance. Such as sorting, looping, searching etc.
+- [ ] Display hourly forecasts.
 - [ ] Detect location automatically
 - [ ] Add an option to choose Units in either Metric or Imperial.
 - [ ] Display higher-level of weather information such as Wind Speed, Precipitation etc
